@@ -12,10 +12,15 @@ Abilities: Crying.
 
 ### Tools I use and prefer:
   1. C/C++/C# ---> Visual Studio, VS Code, Sublime Text and actually anything but notepad.
-  2. Java    --->  Fu**ing Anything with heavy intellisense and code completion (haven't found one till now)
+  2. Java    --->  Anything with heavy intellisense and code completion (haven't found one till now)
   3. OS: Win10 / WSL(Ubuntu)
+ 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone1206" />
+
+![Someone's github stats](https://github-readme-stats.vercel.app/api?username=someone1206&show_icons=true&title_color=ff0071&icon_color=ff2686&text_color=803759&bg_color=fff5fa)
 
 <!---
 Someone1206/Someone1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your change.
 --->
