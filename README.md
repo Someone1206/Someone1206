@@ -16,9 +16,9 @@ Abilities: Crying.
   3. OS: Win10 / WSL(Ubuntu) / Arch Linux (Virtual Machine, made it to waste time)
  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone1206" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone1206&bg_color=fff5fa&locale=ja" />
 
-![Someone's github stats](https://github-readme-stats.vercel.app/api?username=someone1206&show_icons=true&title_color=ff0071&icon_color=ff2686&text_color=803759&bg_color=fff5fa)
+![Someone's github stats](https://github-readme-stats.vercel.app/api?username=someone1206&show_icons=true&title_color=ff0071&icon_color=ff2686&text_color=803759&bg_color=fff5fa&cache_seconds=5000&hide_border=false&locale=ja)
 
 <!---
 Someone1206/Someone1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
