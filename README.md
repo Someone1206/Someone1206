@@ -13,7 +13,7 @@ Abilities: Crying.
 ### Tools I use and prefer:
   1. C/C++/C# ---> Visual Studio (best), VS Code, Sublime Text and actually anything but notepad and vim.
   2. Java    --->  Anything with heavy intellisense and code completion (haven't found one till now)
-  3. OS: Win10 / WSL(Ubuntu) / Arch Linux (Virtual Machine, made it to waste time)
+  3. OS: Win10 / WSL(Kali Linux) / Arch Linux (Virtual Machine, made it to waste time)
  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someone1206&bg_color=fff5fa&locale=ja" />
